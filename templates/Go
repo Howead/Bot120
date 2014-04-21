@@ -1,0 +1,8 @@
+main: <br>
+pause 1000 <br>
+forward A ; go forwards <br>
+forward B <br>
+pause {{num}} <br>
+halt A <br>
+halt B <br>
+</p> <br>

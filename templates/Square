@@ -1,0 +1,44 @@
+main: <br>
+pause 1000 <br>
+goto drawSquare <br><br>
+drawSquare: <br>
+forward A <br>
+forward B <br>
+pause {{num}} <br>
+halt A <br>
+halt B <br>
+forward A  <br>
+backward B <br>
+pause 300 ; turn 90 degrees <br>
+halt A <br>
+halt B <br>
+forward A <br>
+forward B <br>
+pause {{num}} <br>
+halt A <br>
+halt B <br>
+forward A  <br>
+backward B <br>
+pause 300 ; turn 90 degrees <br>
+halt A <br>
+halt B <br>
+forward A <br>
+forward B <br>
+pause {{num}} <br>
+halt A <br>
+halt B <br>
+forward A  <br>
+backward B <br>
+pause 300 ; turn 90 degrees <br>
+halt A <br>
+halt B <br>
+forward A <br>
+forward B <br>
+pause {{num}} <br>
+halt A <br>
+halt B <br>
+forward A  <br>
+backward B <br>
+pause 250; turn 90 degrees <br>
+halt A <br>
+halt B <br>
